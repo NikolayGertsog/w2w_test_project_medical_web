@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/w2w_test_project_medical_web.git
+   git clone https://github.com/NikolayGertsog/w2w_test_project_medical_web.git
    cd w2w_test_project_medical_web
 
 2. Установите зависимости:
